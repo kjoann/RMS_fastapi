@@ -82,7 +82,7 @@ RMS_fastapi/
 │   └── orders/
 ├── templates/             # HTML templates for frontend
 ├── static/                # Static files (CSS, JS, images)
-├── .venv                   # Environment variables file
+├── .venv                  # Environment variables file
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 ```
@@ -108,7 +108,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 Created by [Joanna](https://github.com/kjoann)
 
-```
-
----
-```
