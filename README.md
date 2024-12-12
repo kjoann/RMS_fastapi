@@ -61,7 +61,7 @@ This is a FastAPI-based **Retail Management System** designed to handle operatio
 5. **Run the Application:**
 
    ```bash
-   uvicorn main:app --reload
+   uvicorn app.main:app --reload
    ```
 
 6. **Access the App:**
@@ -107,4 +107,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ## Author
 
 Created by [Joanna](https://github.com/kjoann)
-
